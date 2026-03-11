@@ -63,9 +63,7 @@ class Vladimir
 ## 📊 GitHub Stats
 
 <p align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com?user=wormsdrinkmilk123&theme=tokyonight&hide_border=true&border_radius=10&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF"/>
-
 </p>
 
 <p align="center">
