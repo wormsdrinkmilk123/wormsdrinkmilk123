@@ -31,20 +31,12 @@ class Vladimir
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://twitter.com/milknodev">
-    <img src="https://img.shields.io/twitter/follow/milknodev?logo=twitter&style=for-the-badge&color=1DA1F2"/>
-  </a>
-
   <a href="https://www.youtube.com/@milknodev">
     <img src="https://img.shields.io/badge/YouTube-MilknoDev-red?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/milknodev">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="40" width="40"/>
-  </a>
-
   <a href="https://www.youtube.com/@milknodev">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="40" width="40"/>
   </a>
